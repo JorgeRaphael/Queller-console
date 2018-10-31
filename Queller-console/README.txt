@@ -21,10 +21,10 @@ my email: ppslima@gmail.com with the subject "Queller".
  ************************
  *      DIE CHARTS      *
  *  C: Character        *
- *  A: Army	            *
- *  M: Muster	          *
- *  E: Eye 	            *
- *  B: Battle	          *
+ *  A: Army	           *
+ *  M: Muster	        *
+ *  E: Eye 	           *
+ *  B: Battle	        *
  *  P: Palantir (Event) *
  ************************
 
