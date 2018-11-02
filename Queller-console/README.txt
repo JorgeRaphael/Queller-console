@@ -16,6 +16,17 @@ Observations:
 4. An action is indicated by arrowheads ">>> ACTION <<<"
 5. Give me feedback on the topic on BGG, BGG mail (Fubanga) or
 my email: ppslima@gmail.com with the subject "Queller".
+6. Dice characters used by Queller:
+
+ ************************
+ *      DIE CHARTS      *
+ *  C: Character        *
+ *  A: Army	         *
+ *  M: Muster	         *
+ *  E: Eye 	         *
+ *  B: Battle	         *
+ *  P: Palantir (Event) *
+ ************************
 
 Have fun!
 ---------
@@ -28,8 +39,8 @@ v1.4:
 v1.3:
 - Fixed missing text for a certain action
 - Fixed typos
-- Changed Nazgûl placement priority for the special case of "Nazgûl Search" card.
-- Changed text of Character Chart from "Die has been used?" to "Were you able to move any Minion or Nazgûl?"?
+- Changed NazgÃ»l placement priority for the special case of "NazgÃ»l Search" card.
+- Changed text of Character Chart from "Die has been used?" to "Were you able to move any Minion or NazgÃ»l?"?
 
 v1.2:
 - Added changelog to record the changes history
